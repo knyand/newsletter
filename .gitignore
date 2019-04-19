@@ -1,0 +1,10 @@
+# compiled output
+/out
+/build
+
+#IDEs
+/.idea
+*.iml
+
+#Gradle
+/.gradle
